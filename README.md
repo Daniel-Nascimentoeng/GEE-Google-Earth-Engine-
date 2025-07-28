@@ -1,4 +1,4 @@
-# 🌍 GEE – Análises com Google Earth Engine
+# 💻🌍 GEE – Análises com Google Earth Engine
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
@@ -46,7 +46,7 @@ Executar análises espaciais na nuvem com GEE para estudar a dinâmica da vegeta
 
 ---
 
-## 👨‍💻 Autor
+## 👨🏾‍💻 Autor
 
 **Daniel Conceição do Nascimento**  
 Graduando em Engenharia Civil – UFPB  
