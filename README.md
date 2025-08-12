@@ -21,12 +21,35 @@ Executar análises espaciais na nuvem com GEE para estudar a dinâmica da vegeta
 | Arquivo | Descrição |
 |--------|-----------|
 | `chuva_anual_pb_2023.js` | Precipitação anual da Paraíba em 2023 |
-| `chuva_media_anual(1981_2023).js` | Média de chuvas entre 1981 e 2023 da Paraíba |
+| `chuva_media_anual(1981_2023).js` | Média de chuvas entre 1981 e 2023 do Brasil |
 | `chuva_fontura.js` | Análise de chuvas no Desastre do Rio Grande do Sul|
 | `landsat_ce.js` | Análise com imagens Landsat no Ceará |
 | `ndvi_arquimedes.js` | NDVI para comparação de uso do solo em Arquimedes - RO |
 
 ---
+
+| Precipitação anual da Paraíba em 2023 |
+
+![| Precipitação anual da Paraíba em 2023 |](chuva_anual_pb.png)
+
+| Média de chuvas entre 1981 e 2023 do Brasil | 
+
+![](chuva_med_anual_br.png)
+
+|  Análise de chuvas no Desastre do Rio Grande do Sul | 
+
+![](chuva_rs.png)
+
+|  Análise do NDWI no Desastre do Rio Grande do Sul | 
+
+![](ndwi_antes.png)
+![](ndwi_depois.png)
+
+| NDVI para comparação de uso do solo em Arquimedes - RO | 
+
+![](NDVI_antigo.png)
+![](NDVI_atual.png)
+
 
 ## 🚀 Como usar os scripts
 
