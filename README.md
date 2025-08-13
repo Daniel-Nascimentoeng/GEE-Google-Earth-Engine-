@@ -28,11 +28,50 @@ Executar análises espaciais na nuvem com GEE para estudar a dinâmica da vegeta
 
 ---
 
-| Precipitação anual da Paraíba em 2023 |
+🌧️ Precipitação Anual da Paraíba em 2023
 
-![| Precipitação anual da Paraíba em 2023 |](chuva_anual_pb.png)
+![](chuva_anual_pb.png)
+
+🗺️ Descrição do Mapa
+
+A imagem foi gerada sobre uma base de imagem de satélite (Google / NASA), com sobreposição de um raster climático que representa a distribuição espacial da precipitação.
+
+Área mapeada: Estado da Paraíba
+
+Fonte de dados: Estimativas derivadas de satélites de precipitação (CHIRPS)
+
+Resolução espacial: Aproximadamente 5 a 10 km por pixel
+
+Projeção: Web Mercator
+
+🎨 Escala de Cores
+
+Vermelho: Regiões de baixa precipitação anual (semiárido, Sertão e Cariri)
+
+Amarelo a Verde: Regiões com maior precipitação (Zona da Mata e faixa litorânea)
+
+📊 Padrão Espacial
+
+O mapa evidencia um gradiente oeste-leste, típico da climatologia paraibana:
+
+Interior: Baixos índices pluviométricos devido à continentalidade e barreiras orográficas
+
+Litoral: Maiores volumes de chuva, influenciados pela proximidade com o oceano e ventos alísios
+
+🌍 Aplicações
+
+Estudos climáticos e hidrológicos
+
+Planejamento hídrico no semiárido
+
+Monitoramento ambiental e agrícola
+
+
+---
 
 🌧️ Precipitação Média no Brasil – ( 1981 - 2023 )
+
+![](chuva_med_anual_br.png)
 
 🗺️ Descrição do Mapa
 
@@ -74,9 +113,7 @@ Monitoramento agroclimático
 
 Análise de risco para estiagens e enchentes
 
-
-
-![](chuva_med_anual_br.png)
+---
 
 |  Análise de chuvas no Desastre do Rio Grande do Sul | 
 
