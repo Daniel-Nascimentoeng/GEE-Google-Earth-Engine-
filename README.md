@@ -115,9 +115,58 @@ Análise de risco para estiagens e enchentes
 
 ---
 
-|  Análise de chuvas no Desastre do Rio Grande do Sul | 
+🌧️ Análise de Chuvas no Desastre do Rio Grande do Sul – 2024
 
 ![](chuva_rs.png)
+
+ 🔍 Uma análise espacial da precipitação associada ao evento extremo ocorrido no Rio Grande do Sul em 2024, responsável por inundações, enxurradas e deslizamentos. 
+ O mapa foi produzido a partir de dados de sensoriamento remoto, permitindo visualizar a distribuição das chuvas que contribuíram para o desastre.
+
+🗺️ Descrição do Mapa
+
+O produto cartográfico foi gerado sobre uma base de imagem de satélite (Google / NASA), com sobreposição de um raster climático representando a intensidade da precipitação acumulada.
+
+Área mapeada: Estado do Rio Grande do Sul, Brasil
+
+Fonte de dados: Estimativas de satélites de precipitação (CHIRPS)
+
+Resolução espacial: ~5 a 10 km por pixel
+
+Projeção: Web Mercator
+
+🎨 Escala de Cores
+
+Vermelho e Laranja: Precipitação mais baixa em comparação ao restante do estado
+
+Amarelo a Verde: Chuvas moderadas a intensas
+
+Verde escuro a Preto: Áreas com acumulados extremos, onde os impactos foram mais severos
+
+📊 Contexto Climático
+
+O evento foi potencializado por:
+
+Persistência de frentes frias na região
+
+Umidade elevada transportada da Amazônia (Rios Voadores)
+
+Configuração atmosférica favorável à formação de sistemas convectivos de mesoescala
+
+Saturação prévia do solo devido a chuvas antecedendo o evento principal
+
+🌍 Aplicações
+
+Avaliação de áreas de maior risco
+
+Planejamento de ações emergenciais e prevenção de desastres
+
+Estudos hidrológicos e de drenagem urbana
+
+Suporte para modelagem de cheias e deslizamentos
+
+---
+
+
 
 |  Análise do NDWI no Desastre do Rio Grande do Sul | 
 
