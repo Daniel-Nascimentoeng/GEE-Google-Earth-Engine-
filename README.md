@@ -32,7 +32,49 @@ Executar análises espaciais na nuvem com GEE para estudar a dinâmica da vegeta
 
 ![| Precipitação anual da Paraíba em 2023 |](chuva_anual_pb.png)
 
-| Média de chuvas entre 1981 e 2023 do Brasil | 
+🌧️ Precipitação Média no Brasil – ( 1981 - 2023 )
+
+🗺️ Descrição do Mapa
+
+A visualização foi construída sobre uma imagem de satélite (Google / NASA) com sobreposição de um raster climático representando a distribuição espacial da precipitação média.
+
+Área mapeada: Brasil (escala nacional)
+
+Fonte de dados: Estimativas derivadas de satélites de precipitação (CHIRPS)
+
+Resolução espacial: Aproximadamente 5 a 10 km por pixel
+
+Projeção: Web Mercator
+
+🎨 Escala de Cores
+
+Azul: Regiões com precipitação elevada (ex.: Amazônia ocidental)
+
+Verde e Amarelo: Precipitação intermediária
+
+Laranja e Vermelho: Regiões com menor precipitação acumulada no período (ex.: Nordeste e parte do Sudeste)
+
+📊 Padrões Observados
+
+O mapa evidencia contrastes marcantes entre as regiões brasileiras:
+
+Amazônia: Alta pluviosidade devido à convecção intensa e proximidade com a Zona de Convergência Intertropical (ZCIT).
+
+Centro-Oeste e Sudeste: Precipitação intermediária, influenciada por sistemas frontais e pela Zona de Convergência do Atlântico Sul (ZCAS).
+
+Nordeste: Menores índices de precipitação, especialmente no interior, devido à influência do clima semiárido e da continentalidade.
+
+🌍 Aplicações
+
+Estudos de variabilidade e mudanças climáticas
+
+Planejamento de recursos hídricos
+
+Monitoramento agroclimático
+
+Análise de risco para estiagens e enchentes
+
+
 
 ![](chuva_med_anual_br.png)
 
