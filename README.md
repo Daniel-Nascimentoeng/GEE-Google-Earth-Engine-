@@ -167,11 +167,58 @@ Suporte para modelagem de cheias e deslizamentos
 ---
 
 
+🌊 Análise do NDWI no Desastre do Rio Grande do Sul – 2024
 
-|  Análise do NDWI no Desastre do Rio Grande do Sul | 
+💧 ----- Análise do NDWI (2023) -----
 
 ![](ndwi_antes.png)
+
+💧 ----- Análise do NDWI (2024) -----
+
 ![](ndwi_depois.png)
+
+Apresenta uma análise do NDWI (Normalized Difference Water Index) aplicada à região metropolitana de Porto Alegre antes e após o desastre de inundações de 2024 no Rio Grande do Sul. O NDWI é um índice espectral calculado a partir de imagens de satélite que realça corpos d’água, permitindo identificar áreas alagadas e zonas com acúmulo de água superficial.
+
+🛰️ Metodologia
+
+Índice utilizado: NDWI = (G - NIR) / (G + NIR),
+onde G é a banda do verde e NIR é a banda do infravermelho próximo.
+
+Fonte de dados: Imagens de satélite (Landsat 8).
+
+Processamento: Realizado em ambiente de Sensoriamento Remoto (Google Earth Engine).
+
+Área de estudo: Região de Porto Alegre e entorno.
+
+🎨 Interpretação do Mapa
+
+Áreas em azul: Superfícies cobertas por água detectadas pelo NDWI, indicando inundações.
+
+Base em satélite: Fornece o contexto espacial (cidades, rios e áreas alagadas).
+
+Marcador vermelho: Ponto de referência para localização no mapa ( demonstrar o avanço do rio ).
+
+📊 Resultados
+
+A análise mostra a expansão das áreas alagadas ao longo do delta do Jacuí e regiões urbanas adjacentes. O NDWI foi fundamental para:
+
+Delimitar áreas de inundação em tempo quase real.
+
+Avaliar o impacto em zonas urbanas e rurais.
+
+Apoiar a resposta emergencial e o planejamento da defesa civil.
+
+🌍 Aplicações
+
+Monitoramento de enchentes em áreas urbanas.
+
+Gestão de risco de desastres naturais.
+
+Planejamento de ocupação do solo em regiões suscetíveis a alagamentos.
+
+Estudos hidrológicos e ambientais.
+
+---
 
 | NDVI para comparação de uso do solo em Arquimedes - RO | 
 
