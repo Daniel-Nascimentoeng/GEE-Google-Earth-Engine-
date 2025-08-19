@@ -240,7 +240,6 @@ Estudos hidrológicos e ambientais.
 - Google Earth Engine – JavaScript API
 - Imagens Landsat e CHIRPS (precipitação)
 - Git & GitHub para versionamento
-- (Opcional) Python API do GEE + QGIS
 
 ---
 
